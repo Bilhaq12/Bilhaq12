@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 # My Name Bilhaq
 
-Seorang frontend developer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar *[menjadi lebih baik <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh6YmRjdnNtd3Q5dGt3cXhxYTgyeXVkZXllNGl4ZmhrbGN1cWt3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bqSkJ4IwNcoZG/giphy.gif" width="30" height="30"> ]*.
+Seorang frontend developer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar *[menjadi lebih baik]*.
+
 
 *[skills]*
 
