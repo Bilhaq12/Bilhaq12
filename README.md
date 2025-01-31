@@ -20,7 +20,8 @@ Seorang programmer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar
 
 *[skills]*
 
-<img src="https://cdn-icons-png.flaticon.com/512/7409/7409676.png" alt="React" width="30" height="30">
+<img src="![image](https://github.com/user-attachments/assets/cb941688-03f3-475f-b06d-bf068eaad26b)
+" alt="React" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JavaScript" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969753.png" alt="Next.js" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/806/806294.png" alt="TypeScript" width="30" height="30">
