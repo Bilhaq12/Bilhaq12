@@ -20,8 +20,14 @@ Seorang programmer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar
 
 *[skills]*
 
-<img src="[https://icons8.com/icon/8g6WJkjf0vaP/react](https://img.icons8.com/?size=100&id=8g6WJkjf0vaP&format=png&color=000000)" width="30" height"30"> <img src="assets/python-icon.svg" width="30" height="30"> <img src="assets/javascript-icon.svg" width="30" height="30"> <img src="assets/react-icon.svg" width="30" height="30"> 
+<img src="https://cdn-icons-png.flaticon.com/512/7409/7409676.png" alt="React" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JavaScript" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969753.png" alt="Next.js" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/806/806294.png" alt="TypeScript" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/888/888858.png" alt="HTML" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/941/941210.png" alt="CSS" width="30" height="30">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JS" width="30" height="30">
 
-<img src="link atau kode embed GIF Rimuru" width="200">
+<img src="link GIF Rimuru" width="200">
 
 [Tombol "Follow"]
