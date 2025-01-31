@@ -20,8 +20,7 @@ Seorang programmer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar
 
 *[skills]*
 
-<img src="![image](https://github.com/user-attachments/assets/cb941688-03f3-475f-b06d-bf068eaad26b)
-" alt="React" width="30" height="30">
+<img src="https://github.com/user-attachments/assets/c87f0448-2b7c-4567-afdd-b21f15d5c754" alt="React" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="JavaScript" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/5969/5969753.png" alt="Next.js" width="30" height="30">
 <img src="https://cdn-icons-png.flaticon.com/512/806/806294.png" alt="TypeScript" width="30" height="30">
@@ -32,3 +31,6 @@ Seorang programmer yang menyukai anime dan hal-hal lucu. Saat ini sedang belajar
 <img src="link GIF Rimuru" width="200">
 
 [Tombol "Follow"]
+
+![image](https://github.com/user-attachments/assets/c87f0448-2b7c-4567-afdd-b21f15d5c754)
+
