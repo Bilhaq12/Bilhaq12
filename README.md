@@ -26,5 +26,7 @@ Seorang frontend developer yang menyukai anime dan hal-hal lucu. Saat ini sedang
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejAwNTY2bzBlM2t3ZzhlOWJnMTA1MG1nMTlrcW80NmY4N3p2c2NlMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" width="200">
 
-[Tombol "Follow"]
 
+<a href="https://github.com/bilhaq12">
+  <img src="https://github.com/user-attachments/assets/a5b5c58d-5736-4e04-842e-9287a4a95780" alt="Follow me on GitHub" width="30" height="30">
+</a>
